@@ -2,3 +2,5 @@ pandas
 numpy
 jupyter
 scikit-learn
+gensim
+plotly
