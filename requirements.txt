@@ -4,3 +4,6 @@ jupyter
 scikit-learn
 gensim
 plotly
+nltk
+matplotlib
+seaborn
