@@ -4,6 +4,11 @@ jupyter
 scikit-learn
 gensim
 plotly
+torch
+sentence_transformers
+openai
+tiktoken
+tqdm
 nltk
 matplotlib
 seaborn
